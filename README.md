@@ -1,6 +1,6 @@
 "# Virtual-Voting-System" 
 
-#### The Virtual Voting System using Ethereum Blockchain is a secure and transparent solution for conducting elections. Leveraging Ethereum's blockchain technology, this system ensures tamper-proof voting records, enabling users to cast their votes remotely while maintaining anonymity and preventing fraud. Explore this innovative project for trustworthy and decentralized voting processes.
+#### The Virtual Voting System using Ethereum Blockchain offers a secure and transparent solution for conducting elections. By leveraging Ethereum's blockchain technology, it ensures tamper-proof voting records, allowing users to cast their votes remotely while maintaining anonymity and preventing fraud. Discover this innovative project for a trustworthy and decentralized voting process.
 
 ## Features
 - Implements JWT for secure voter authentication and authorization.
